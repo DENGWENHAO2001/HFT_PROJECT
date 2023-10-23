@@ -1,13 +1,13 @@
 ## step1: Open celery workers
-`python hft/tools/run_celery.py`
+`python run_celery.py`
 
 ## step2: Start a producer application that fetches data streams from binance and writes them to RabbitMQ in real time
-`python hft/tools/websocket_producer.py`
+`python websocket_producer.py`
 
 ## step3: Turn on the consumer and get the data stream from RabbitMQ in real time, then 
 sub1: pre-process, sub2: input to the agent decision and sub3: interact with binance
 
-`python hft/tools/websocket_consumer.py`
+`python websocket_consumer.py`
 
 NOTE: 
 1. step3 three parts are still incomplete, I am in charge of sub1 and sub2, lingxuan is in charge of the sub3
