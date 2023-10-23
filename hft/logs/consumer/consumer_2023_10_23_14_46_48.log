@@ -1,0 +1,9 @@
+2023-10-23 14:46:48,333 - websocket_consumer.py[line:186] - INFO# Waiting for message.
+2023-10-23 14:47:03,217 - websocket_consumer.py[line:164] - INFO# Received data from RabbitMQ: Kline_1m timestep: 1698043622
+2023-10-23 14:48:03,214 - websocket_consumer.py[line:164] - INFO# Received data from RabbitMQ: Kline_1m timestep: 1698043682
+2023-10-23 14:49:03,220 - websocket_consumer.py[line:164] - INFO# Received data from RabbitMQ: Kline_1m timestep: 1698043742
+2023-10-23 14:50:03,218 - websocket_consumer.py[line:164] - INFO# Received data from RabbitMQ: Kline_1m timestep: 1698043802
+2023-10-23 14:51:05,192 - websocket_consumer.py[line:164] - INFO# Received data from RabbitMQ: Kline_1m timestep: 1698043862
+2023-10-23 14:52:02,346 - websocket_consumer.py[line:164] - INFO# Received data from RabbitMQ: Kline_1m timestep: 1698043922
+2023-10-23 14:53:03,220 - websocket_consumer.py[line:164] - INFO# Received data from RabbitMQ: Kline_1m timestep: 1698043982
+2023-10-23 14:53:15,517 - websocket_consumer.py[line:154] - INFO# Received data from RabbitMQ: Order book timestep: 1698043994, Kline_1s timestep: 1698043994

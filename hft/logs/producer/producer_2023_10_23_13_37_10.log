@@ -1,0 +1,8 @@
+2023-10-23 13:37:34,968 - kline_websocket_stream.py[line:55] - INFO# WebSocket error: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2023-10-23 13:37:34,968 - kline_websocket_stream.py[line:55] - INFO# WebSocket error: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2023-10-23 13:37:34,968 - kline_websocket_stream.py[line:55] - INFO# WebSocket error: KlineWebsocketStream.on_close() takes 2 positional arguments but 4 were given
+2023-10-23 13:37:34,969 - kline_websocket_stream.py[line:55] - INFO# WebSocket error: KlineWebsocketStream.on_close() takes 2 positional arguments but 4 were given
+2023-10-23 13:37:34,977 - orderbook_websocket_stream.py[line:51] - INFO# WebSocket error: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2023-10-23 13:37:34,985 - orderbook_websocket_stream.py[line:51] - INFO# WebSocket error: OrderBookTimeWebsocketStream.on_close() takes 2 positional arguments but 4 were given
+2023-10-23 13:37:34,998 - orderbook_websocket_stream.py[line:151] - INFO# WebSocket error: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2023-10-23 13:37:34,999 - orderbook_websocket_stream.py[line:151] - INFO# WebSocket error: OrderbookDataWebsocketStream.on_close() takes 2 positional arguments but 4 were given

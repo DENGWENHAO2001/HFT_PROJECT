@@ -1,0 +1,28 @@
+interval:
+  60
+
+stream:
+  code: BTC
+  base: USDT
+api_key_name: molei
+model_name: "20230317"
+
+apiKeys:
+  - name: molei
+    apiKey: dALZ3pOHloGmcCGVQ8w8qeftHaazsoxD54HlQTmHfkGYNVTcbG74hs9NHZYTSXHK
+    apiSecretKey: ImyPU0CqrYlraAssMnmO4iAWGEHu2gnUpvDqlGlPlI3MMpSHAzKh81AtRMwI6sdE
+  - name: wentao
+    apiKey: cyzHV5GwwplEdFiC5dMtSjsUZj4dZavkYs5FzPkN9BsTtCX4Ku0GZbsk2XHkodZB
+    apiSecretKey: mDg2Cw8xRTbmIYx1DzMtl2vAWgERQWwXh10tOGHSbN9mC4eT2ijetEOSFntnvFHJ
+
+tradeUnit:
+  0.001
+
+code:
+  BTC
+
+base:
+  TUSD
+
+beat_fee:
+  0.0001

@@ -1,0 +1,7 @@
+celery
+pika
+websocket-client
+python-binance
+pandas
+numpy
+pyyaml
