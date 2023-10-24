@@ -5,7 +5,7 @@ import sys
 import threading
 import argparse
 import yaml
-
+import time
 
 ROOT = os.path.dirname(os.path.abspath(__file__))#os.path.dirname(os.path.dirname(__file__))
 sys.path.append(ROOT)
@@ -88,19 +88,22 @@ class Producer(threading.Thread):
 
             # print(f"max_timestep : {max_timestep}")
 
-            while (not self.orderbook_queue.empty()) and self.orderbook_timestep < max_timestep:
+            # while (not self.orderbook_queue.empty()) and self.orderbook_timestep < max_timestep:
+            while self.orderbook_timestep < max_timestep:
                 self.orderbook_data = self.orderbook_queue.get()
                 self.orderbook_timestep = self.orderbook_data["timestep"] // 1000
 
             # print("orderbook aligned")
 
-            while (not self.kline_1s_queue.empty()) and self.kline_1s_timestep < max_timestep:
+            # while (not self.kline_1s_queue.empty()) and self.kline_1s_timestep < max_timestep:
+            while self.kline_1s_timestep < max_timestep:
                 self.kline_1s_data = self.kline_1s_queue.get()
                 self.kline_1s_timestep = self.kline_1s_data["timestep"] // 1000
 
             # print("kline_1s aligned")
 
             while (not self.kline_1m_queue.empty()) and self.kline_1m_timestep < max_timestep:
+            # while self.kline_1m_timestep < max_timestep:
                 self.kline_1m_data = self.kline_1m_queue.get()
                 self.kline_1m_timestep = self.kline_1m_data["timestep"] // 1000
 
@@ -114,6 +117,8 @@ class Producer(threading.Thread):
                 }
                 # print(combined_data)
                 self.store_data_in_rabbitmq(combined_data)
+            # else:
+            #     time.sleep(1)
             
             minute = (self.kline_1m_timestep - 1) // 60
             
