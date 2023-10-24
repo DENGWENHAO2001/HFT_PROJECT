@@ -6,7 +6,7 @@ import numpy as np
 EPS = sys.float_info.epsilon
 
 class Processor():
-    def __init__(self, beat_fee = 0.0001, windows = [2,3,4,5]):
+    def __init__(self, beat_fee = 0.0001, windows = [5,10,30,60]):
         self.beat_fee = beat_fee
         self.windows = windows
 

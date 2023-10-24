@@ -1,0 +1,14 @@
+2023-10-24 16:11:45,306 - websocket_consumer.py[line:197] - INFO# Waiting for message.
+2023-10-24 16:11:45,306 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698134842, Kline_1s timestep: 1698134842
+2023-10-24 16:11:45,309 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698134843, Kline_1s timestep: 1698134843
+2023-10-24 16:11:45,310 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698134844, Kline_1s timestep: 1698134844
+2023-10-24 16:11:45,311 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698134845, Kline_1s timestep: 1698134845
+2023-10-24 16:11:45,312 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698134846, Kline_1s timestep: 1698134846
+2023-10-24 16:11:45,313 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698134847, Kline_1s timestep: 1698134847
+2023-10-24 16:11:45,314 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698134848, Kline_1s timestep: 1698134848
+2023-10-24 16:11:45,315 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698134849, Kline_1s timestep: 1698134849
+2023-10-24 16:11:45,317 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698134850, Kline_1s timestep: 1698134850
+2023-10-24 16:11:45,318 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698134851, Kline_1s timestep: 1698134851
+2023-10-24 16:11:45,319 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698134852, Kline_1s timestep: 1698134852
+2023-10-24 16:11:45,320 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698134853, Kline_1s timestep: 1698134853
+2023-10-24 16:11:45,321 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698134854, Kline_1s timestep: 1698134854

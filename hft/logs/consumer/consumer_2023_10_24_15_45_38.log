@@ -1,0 +1,2 @@
+2023-10-24 15:45:38,630 - websocket_consumer.py[line:42] - INFO# fuck
+2023-10-24 15:45:38,645 - websocket_consumer.py[line:199] - INFO# Waiting for message.

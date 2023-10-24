@@ -57,15 +57,15 @@ class HFTDDQN():
         self.position = .0  # previous action
         self.max_holding_number = 0.01
         self.logger = get_logger(os.path.join(ROOT, "hft/logs", "hft_ddqn"), "hft_ddqn")
-        self.logger.propagate = False
+
         self.device = torch.device(
             "cuda:0" if torch.cuda.is_available() else "cpu")
 
         # TODO 把这个结果转成get_feature类的结果
         self.minute_tech_indicator_list = np.load(os.path.join(
-            ROOT, "hft", "agents", "feature", "test_minitue_feature.npy"), allow_pickle=True)
+            ROOT, "hft", "agents", "feature", "minitue_feature.npy"), allow_pickle=True)
         self.second_tech_indicator_list = np.load(os.path.join(
-            ROOT, "hft", "agents", "feature", "test_second_feature.npy"), allow_pickle=True)
+            ROOT, "hft", "agents", "feature", "second_feature.npy"), allow_pickle=True)
         # TODO 第一个就是high level的模型初始化以及load trained的model
         # TODO low level 多个魔心固定初始化已经load model 并形成对应的value为list（内涵加载的模型）的字典
         self.high_level_agent = Qnet_high_level_position(int(len(self.minute_tech_indicator_list)), 5, 128).to("cpu")
@@ -183,12 +183,12 @@ class HFTDDQN():
 
         output_action = output_action.item()
         self.set_previous_action(output_action)
-        print(1)
-        self.logger.info(
-            "timestamp:{},position:{},output_action:{},price_info:{}"
-            .format(current_timestamp, previous_action.item()*self.max_holding_number/4,output_action,{k: v for k, v in price_information["orderbook"].items() if k !="timestep"}))
 
-        return output_action
+        # self.logger.info(
+        #     "timestamp:{},position:{},output_action:{},price_info:{}"
+        #     .format(current_timestamp, previous_action.item()*self.max_holding_number/4,output_action,{k: v for k, v in price_information["orderbook"].items() if k !="timestep"}))
+
+        return output_action,previous_action.item()
 
 
 MODEL = HFTDDQN(checkpoint_path=os.path.join(

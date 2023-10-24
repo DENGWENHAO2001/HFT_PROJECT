@@ -1,0 +1,380 @@
+2023-10-24 16:11:56,661 - websocket_consumer.py[line:197] - INFO# Waiting for message.
+2023-10-24 16:12:06,558 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135125, Kline_1s timestep: 1698135125
+2023-10-24 16:12:07,477 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135126, Kline_1s timestep: 1698135126
+2023-10-24 16:12:07,479 - websocket_consumer.py[line:169] - INFO# Received data from RabbitMQ: Kline_1m timestep: 1698135126
+2023-10-24 16:12:09,273 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135127, Kline_1s timestep: 1698135127
+2023-10-24 16:12:09,472 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135128, Kline_1s timestep: 1698135128
+2023-10-24 16:12:10,459 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135129, Kline_1s timestep: 1698135129
+2023-10-24 16:12:11,345 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135130, Kline_1s timestep: 1698135130
+2023-10-24 16:12:12,255 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135131, Kline_1s timestep: 1698135131
+2023-10-24 16:12:13,254 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135132, Kline_1s timestep: 1698135132
+2023-10-24 16:12:14,247 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135133, Kline_1s timestep: 1698135133
+2023-10-24 16:12:15,222 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135134, Kline_1s timestep: 1698135134
+2023-10-24 16:12:16,880 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135135, Kline_1s timestep: 1698135135
+2023-10-24 16:12:17,231 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135136, Kline_1s timestep: 1698135136
+2023-10-24 16:12:18,248 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135137, Kline_1s timestep: 1698135137
+2023-10-24 16:12:19,246 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135138, Kline_1s timestep: 1698135138
+2023-10-24 16:12:20,247 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135139, Kline_1s timestep: 1698135139
+2023-10-24 16:12:21,899 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135140, Kline_1s timestep: 1698135140
+2023-10-24 16:12:24,532 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135141, Kline_1s timestep: 1698135141
+2023-10-24 16:12:26,094 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135142, Kline_1s timestep: 1698135142
+2023-10-24 16:12:26,729 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135143, Kline_1s timestep: 1698135143
+2023-10-24 16:12:28,107 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135144, Kline_1s timestep: 1698135144
+2023-10-24 16:12:29,051 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135145, Kline_1s timestep: 1698135145
+2023-10-24 16:12:29,237 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135146, Kline_1s timestep: 1698135146
+2023-10-24 16:12:29,344 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135147, Kline_1s timestep: 1698135147
+2023-10-24 16:12:29,965 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135148, Kline_1s timestep: 1698135148
+2023-10-24 16:12:30,632 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135149, Kline_1s timestep: 1698135149
+2023-10-24 16:12:31,430 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135150, Kline_1s timestep: 1698135150
+2023-10-24 16:12:32,444 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135151, Kline_1s timestep: 1698135151
+2023-10-24 16:12:33,245 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135152, Kline_1s timestep: 1698135152
+2023-10-24 16:12:34,317 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135153, Kline_1s timestep: 1698135153
+2023-10-24 16:12:35,415 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135154, Kline_1s timestep: 1698135154
+2023-10-24 16:12:36,440 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135155, Kline_1s timestep: 1698135155
+2023-10-24 16:12:37,255 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135156, Kline_1s timestep: 1698135156
+2023-10-24 16:12:38,247 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135157, Kline_1s timestep: 1698135157
+2023-10-24 16:12:39,254 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135158, Kline_1s timestep: 1698135158
+2023-10-24 16:12:40,911 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135159, Kline_1s timestep: 1698135159
+2023-10-24 16:12:41,220 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135160, Kline_1s timestep: 1698135160
+2023-10-24 16:12:42,702 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135161, Kline_1s timestep: 1698135161
+2023-10-24 16:12:43,573 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135162, Kline_1s timestep: 1698135162
+2023-10-24 16:12:44,940 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135163, Kline_1s timestep: 1698135163
+2023-10-24 16:12:45,309 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135164, Kline_1s timestep: 1698135164
+2023-10-24 16:12:46,665 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135165, Kline_1s timestep: 1698135165
+2023-10-24 16:12:47,341 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135166, Kline_1s timestep: 1698135166
+2023-10-24 16:12:48,264 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135167, Kline_1s timestep: 1698135167
+2023-10-24 16:12:50,254 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135169, Kline_1s timestep: 1698135169
+2023-10-24 16:12:51,254 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135170, Kline_1s timestep: 1698135170
+2023-10-24 16:12:52,254 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135171, Kline_1s timestep: 1698135171
+2023-10-24 16:12:54,253 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135173, Kline_1s timestep: 1698135173
+2023-10-24 16:12:55,253 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135174, Kline_1s timestep: 1698135174
+2023-10-24 16:12:56,253 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135175, Kline_1s timestep: 1698135175
+2023-10-24 16:12:57,245 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135176, Kline_1s timestep: 1698135176
+2023-10-24 16:12:58,245 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135177, Kline_1s timestep: 1698135177
+2023-10-24 16:12:59,252 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135178, Kline_1s timestep: 1698135178
+2023-10-24 16:13:01,377 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135179, Kline_1s timestep: 1698135179
+2023-10-24 16:13:02,139 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135180, Kline_1s timestep: 1698135180
+2023-10-24 16:13:02,697 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135181, Kline_1s timestep: 1698135181
+2023-10-24 16:13:02,699 - websocket_consumer.py[line:169] - INFO# Received data from RabbitMQ: Kline_1m timestep: 1698135182
+2023-10-24 16:13:04,252 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135183, Kline_1s timestep: 1698135183
+2023-10-24 16:13:05,560 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135184, Kline_1s timestep: 1698135184
+2023-10-24 16:13:06,263 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135185, Kline_1s timestep: 1698135185
+2023-10-24 16:13:07,338 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135186, Kline_1s timestep: 1698135186
+2023-10-24 16:13:08,212 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135187, Kline_1s timestep: 1698135187
+2023-10-24 16:13:09,328 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135188, Kline_1s timestep: 1698135188
+2023-10-24 16:13:11,348 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135190, Kline_1s timestep: 1698135190
+2023-10-24 16:13:12,207 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135191, Kline_1s timestep: 1698135191
+2023-10-24 16:13:13,222 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135192, Kline_1s timestep: 1698135192
+2023-10-24 16:13:14,212 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135193, Kline_1s timestep: 1698135193
+2023-10-24 16:13:15,306 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135194, Kline_1s timestep: 1698135194
+2023-10-24 16:13:16,221 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135195, Kline_1s timestep: 1698135195
+2023-10-24 16:13:17,220 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135196, Kline_1s timestep: 1698135196
+2023-10-24 16:13:19,218 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135198, Kline_1s timestep: 1698135198
+2023-10-24 16:13:20,214 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135199, Kline_1s timestep: 1698135199
+2023-10-24 16:13:21,245 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135200, Kline_1s timestep: 1698135200
+2023-10-24 16:13:22,213 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135201, Kline_1s timestep: 1698135201
+2023-10-24 16:13:23,742 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135202, Kline_1s timestep: 1698135202
+2023-10-24 16:13:24,792 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135203, Kline_1s timestep: 1698135203
+2023-10-24 16:13:25,351 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135204, Kline_1s timestep: 1698135204
+2023-10-24 16:13:26,734 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135205, Kline_1s timestep: 1698135205
+2023-10-24 16:13:28,862 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135207, Kline_1s timestep: 1698135207
+2023-10-24 16:13:29,217 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135208, Kline_1s timestep: 1698135208
+2023-10-24 16:13:30,430 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135209, Kline_1s timestep: 1698135209
+2023-10-24 16:13:31,310 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135210, Kline_1s timestep: 1698135210
+2023-10-24 16:13:32,219 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135211, Kline_1s timestep: 1698135211
+2023-10-24 16:13:34,207 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135213, Kline_1s timestep: 1698135213
+2023-10-24 16:13:35,216 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135214, Kline_1s timestep: 1698135214
+2023-10-24 16:13:36,223 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135215, Kline_1s timestep: 1698135215
+2023-10-24 16:13:38,299 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135217, Kline_1s timestep: 1698135217
+2023-10-24 16:13:39,208 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135218, Kline_1s timestep: 1698135218
+2023-10-24 16:13:40,245 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135219, Kline_1s timestep: 1698135219
+2023-10-24 16:13:42,338 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135221, Kline_1s timestep: 1698135221
+2023-10-24 16:13:43,220 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135222, Kline_1s timestep: 1698135222
+2023-10-24 16:13:44,714 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135223, Kline_1s timestep: 1698135223
+2023-10-24 16:13:46,225 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135225, Kline_1s timestep: 1698135225
+2023-10-24 16:13:47,824 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135226, Kline_1s timestep: 1698135226
+2023-10-24 16:13:49,338 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135228, Kline_1s timestep: 1698135228
+2023-10-24 16:13:50,299 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135229, Kline_1s timestep: 1698135229
+2023-10-24 16:13:51,354 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135230, Kline_1s timestep: 1698135230
+2023-10-24 16:13:53,516 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135232, Kline_1s timestep: 1698135232
+2023-10-24 16:13:57,326 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135233, Kline_1s timestep: 1698135233
+2023-10-24 16:13:57,432 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135234, Kline_1s timestep: 1698135234
+2023-10-24 16:13:58,081 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135236, Kline_1s timestep: 1698135236
+2023-10-24 16:13:58,209 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135237, Kline_1s timestep: 1698135237
+2023-10-24 16:14:00,439 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135239, Kline_1s timestep: 1698135239
+2023-10-24 16:14:02,218 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135241, Kline_1s timestep: 1698135241
+2023-10-24 16:14:04,369 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135242, Kline_1s timestep: 1698135242
+2023-10-24 16:14:04,371 - websocket_consumer.py[line:169] - INFO# Received data from RabbitMQ: Kline_1m timestep: 1698135242
+2023-10-24 16:14:04,779 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135243, Kline_1s timestep: 1698135243
+2023-10-24 16:14:05,667 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135244, Kline_1s timestep: 1698135244
+2023-10-24 16:14:06,336 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135245, Kline_1s timestep: 1698135245
+2023-10-24 16:14:07,240 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135246, Kline_1s timestep: 1698135246
+2023-10-24 16:14:09,482 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135248, Kline_1s timestep: 1698135248
+2023-10-24 16:14:10,389 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135249, Kline_1s timestep: 1698135249
+2023-10-24 16:14:12,334 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135251, Kline_1s timestep: 1698135251
+2023-10-24 16:14:13,299 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135252, Kline_1s timestep: 1698135252
+2023-10-24 16:14:14,253 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135253, Kline_1s timestep: 1698135253
+2023-10-24 16:14:16,468 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135255, Kline_1s timestep: 1698135255
+2023-10-24 16:14:18,516 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135256, Kline_1s timestep: 1698135256
+2023-10-24 16:14:18,725 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135257, Kline_1s timestep: 1698135257
+2023-10-24 16:14:19,565 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135258, Kline_1s timestep: 1698135258
+2023-10-24 16:14:20,305 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135259, Kline_1s timestep: 1698135259
+2023-10-24 16:14:22,308 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135261, Kline_1s timestep: 1698135261
+2023-10-24 16:14:24,447 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135263, Kline_1s timestep: 1698135263
+2023-10-24 16:14:25,690 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135264, Kline_1s timestep: 1698135264
+2023-10-24 16:14:26,349 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135265, Kline_1s timestep: 1698135265
+2023-10-24 16:14:28,616 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135267, Kline_1s timestep: 1698135267
+2023-10-24 16:14:29,243 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135268, Kline_1s timestep: 1698135268
+2023-10-24 16:14:30,438 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135269, Kline_1s timestep: 1698135269
+2023-10-24 16:14:31,428 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135270, Kline_1s timestep: 1698135270
+2023-10-24 16:14:32,226 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135271, Kline_1s timestep: 1698135271
+2023-10-24 16:14:34,352 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135273, Kline_1s timestep: 1698135273
+2023-10-24 16:14:35,339 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135274, Kline_1s timestep: 1698135274
+2023-10-24 16:14:37,223 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135276, Kline_1s timestep: 1698135276
+2023-10-24 16:14:39,336 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135278, Kline_1s timestep: 1698135278
+2023-10-24 16:14:40,254 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135279, Kline_1s timestep: 1698135279
+2023-10-24 16:14:41,245 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135280, Kline_1s timestep: 1698135280
+2023-10-24 16:14:42,220 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135281, Kline_1s timestep: 1698135281
+2023-10-24 16:14:43,214 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135282, Kline_1s timestep: 1698135282
+2023-10-24 16:14:44,341 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135283, Kline_1s timestep: 1698135283
+2023-10-24 16:14:46,365 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135285, Kline_1s timestep: 1698135285
+2023-10-24 16:14:47,336 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135286, Kline_1s timestep: 1698135286
+2023-10-24 16:14:49,605 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135287, Kline_1s timestep: 1698135287
+2023-10-24 16:14:49,644 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135288, Kline_1s timestep: 1698135288
+2023-10-24 16:14:50,367 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135289, Kline_1s timestep: 1698135289
+2023-10-24 16:14:51,225 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135290, Kline_1s timestep: 1698135290
+2023-10-24 16:14:53,924 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135292, Kline_1s timestep: 1698135292
+2023-10-24 16:14:55,922 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135294, Kline_1s timestep: 1698135294
+2023-10-24 16:14:56,343 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135295, Kline_1s timestep: 1698135295
+2023-10-24 16:14:57,220 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135296, Kline_1s timestep: 1698135296
+2023-10-24 16:14:58,321 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135297, Kline_1s timestep: 1698135297
+2023-10-24 16:14:59,228 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135298, Kline_1s timestep: 1698135298
+2023-10-24 16:15:01,243 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135300, Kline_1s timestep: 1698135300
+2023-10-24 16:15:02,245 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135301, Kline_1s timestep: 1698135301
+2023-10-24 16:15:04,845 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135303, Kline_1s timestep: 1698135303
+2023-10-24 16:15:04,847 - websocket_consumer.py[line:169] - INFO# Received data from RabbitMQ: Kline_1m timestep: 1698135304
+2023-10-24 16:15:05,320 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135304, Kline_1s timestep: 1698135304
+2023-10-24 16:15:06,762 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135305, Kline_1s timestep: 1698135305
+2023-10-24 16:15:07,764 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135306, Kline_1s timestep: 1698135306
+2023-10-24 16:15:08,302 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135307, Kline_1s timestep: 1698135307
+2023-10-24 16:15:09,217 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135308, Kline_1s timestep: 1698135308
+2023-10-24 16:15:10,252 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135309, Kline_1s timestep: 1698135309
+2023-10-24 16:15:11,230 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135310, Kline_1s timestep: 1698135310
+2023-10-24 16:15:13,246 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135312, Kline_1s timestep: 1698135312
+2023-10-24 16:15:14,244 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135313, Kline_1s timestep: 1698135313
+2023-10-24 16:15:16,857 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135315, Kline_1s timestep: 1698135315
+2023-10-24 16:15:17,320 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135316, Kline_1s timestep: 1698135316
+2023-10-24 16:15:18,306 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135317, Kline_1s timestep: 1698135317
+2023-10-24 16:15:19,338 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135318, Kline_1s timestep: 1698135318
+2023-10-24 16:15:21,210 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135320, Kline_1s timestep: 1698135320
+2023-10-24 16:15:22,402 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135321, Kline_1s timestep: 1698135321
+2023-10-24 16:15:23,222 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135322, Kline_1s timestep: 1698135322
+2023-10-24 16:15:27,553 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135324, Kline_1s timestep: 1698135324
+2023-10-24 16:15:27,644 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135325, Kline_1s timestep: 1698135325
+2023-10-24 16:15:27,734 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135326, Kline_1s timestep: 1698135326
+2023-10-24 16:15:28,220 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135327, Kline_1s timestep: 1698135327
+2023-10-24 16:15:29,244 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135328, Kline_1s timestep: 1698135328
+2023-10-24 16:15:30,219 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135329, Kline_1s timestep: 1698135329
+2023-10-24 16:15:31,212 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135330, Kline_1s timestep: 1698135330
+2023-10-24 16:15:32,327 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135331, Kline_1s timestep: 1698135331
+2023-10-24 16:15:34,779 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135333, Kline_1s timestep: 1698135333
+2023-10-24 16:15:36,215 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135335, Kline_1s timestep: 1698135335
+2023-10-24 16:15:38,707 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135336, Kline_1s timestep: 1698135336
+2023-10-24 16:15:40,233 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135337, Kline_1s timestep: 1698135337
+2023-10-24 16:15:40,401 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135338, Kline_1s timestep: 1698135338
+2023-10-24 16:15:40,552 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135339, Kline_1s timestep: 1698135339
+2023-10-24 16:15:41,217 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135340, Kline_1s timestep: 1698135340
+2023-10-24 16:15:42,467 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135341, Kline_1s timestep: 1698135341
+2023-10-24 16:15:43,954 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135342, Kline_1s timestep: 1698135342
+2023-10-24 16:15:44,405 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135343, Kline_1s timestep: 1698135343
+2023-10-24 16:15:45,444 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135344, Kline_1s timestep: 1698135344
+2023-10-24 16:15:46,363 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135345, Kline_1s timestep: 1698135345
+2023-10-24 16:15:47,222 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135346, Kline_1s timestep: 1698135346
+2023-10-24 16:15:49,214 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135348, Kline_1s timestep: 1698135348
+2023-10-24 16:15:51,406 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135350, Kline_1s timestep: 1698135350
+2023-10-24 16:15:52,310 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135351, Kline_1s timestep: 1698135351
+2023-10-24 16:15:53,314 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135352, Kline_1s timestep: 1698135352
+2023-10-24 16:15:56,800 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135353, Kline_1s timestep: 1698135353
+2023-10-24 16:15:56,802 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135354, Kline_1s timestep: 1698135354
+2023-10-24 16:15:56,892 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135355, Kline_1s timestep: 1698135355
+2023-10-24 16:15:57,818 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135356, Kline_1s timestep: 1698135356
+2023-10-24 16:15:58,414 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135357, Kline_1s timestep: 1698135357
+2023-10-24 16:15:59,220 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135358, Kline_1s timestep: 1698135358
+2023-10-24 16:16:01,974 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135360, Kline_1s timestep: 1698135360
+2023-10-24 16:16:02,306 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135361, Kline_1s timestep: 1698135361
+2023-10-24 16:16:04,013 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135362, Kline_1s timestep: 1698135362
+2023-10-24 16:16:04,014 - websocket_consumer.py[line:169] - INFO# Received data from RabbitMQ: Kline_1m timestep: 1698135362
+2023-10-24 16:16:04,305 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135363, Kline_1s timestep: 1698135363
+2023-10-24 16:16:05,813 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135364, Kline_1s timestep: 1698135364
+2023-10-24 16:16:07,165 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135365, Kline_1s timestep: 1698135365
+2023-10-24 16:16:07,842 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135366, Kline_1s timestep: 1698135366
+2023-10-24 16:16:08,609 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135367, Kline_1s timestep: 1698135367
+2023-10-24 16:16:09,351 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135368, Kline_1s timestep: 1698135368
+2023-10-24 16:16:10,261 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135369, Kline_1s timestep: 1698135369
+2023-10-24 16:16:11,254 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135370, Kline_1s timestep: 1698135370
+2023-10-24 16:16:12,813 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135371, Kline_1s timestep: 1698135371
+2023-10-24 16:16:14,381 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135373, Kline_1s timestep: 1698135373
+2023-10-24 16:16:15,234 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135374, Kline_1s timestep: 1698135374
+2023-10-24 16:16:16,244 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135375, Kline_1s timestep: 1698135375
+2023-10-24 16:16:18,334 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135377, Kline_1s timestep: 1698135377
+2023-10-24 16:16:19,715 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135378, Kline_1s timestep: 1698135378
+2023-10-24 16:16:20,242 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135379, Kline_1s timestep: 1698135379
+2023-10-24 16:16:21,241 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135380, Kline_1s timestep: 1698135380
+2023-10-24 16:16:22,480 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135381, Kline_1s timestep: 1698135381
+2023-10-24 16:16:23,369 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135382, Kline_1s timestep: 1698135382
+2023-10-24 16:16:24,251 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135383, Kline_1s timestep: 1698135383
+2023-10-24 16:16:25,457 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135384, Kline_1s timestep: 1698135384
+2023-10-24 16:16:26,365 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135385, Kline_1s timestep: 1698135385
+2023-10-24 16:16:27,252 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135386, Kline_1s timestep: 1698135386
+2023-10-24 16:16:28,243 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135387, Kline_1s timestep: 1698135387
+2023-10-24 16:16:29,235 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135388, Kline_1s timestep: 1698135388
+2023-10-24 16:16:30,365 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135389, Kline_1s timestep: 1698135389
+2023-10-24 16:16:31,223 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135390, Kline_1s timestep: 1698135390
+2023-10-24 16:16:32,217 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135391, Kline_1s timestep: 1698135391
+2023-10-24 16:16:33,247 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135392, Kline_1s timestep: 1698135392
+2023-10-24 16:16:35,311 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135394, Kline_1s timestep: 1698135394
+2023-10-24 16:16:36,223 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135395, Kline_1s timestep: 1698135395
+2023-10-24 16:16:37,244 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135396, Kline_1s timestep: 1698135396
+2023-10-24 16:16:38,305 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135397, Kline_1s timestep: 1698135397
+2023-10-24 16:16:39,331 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135398, Kline_1s timestep: 1698135398
+2023-10-24 16:16:40,223 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135399, Kline_1s timestep: 1698135399
+2023-10-24 16:16:41,247 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135400, Kline_1s timestep: 1698135400
+2023-10-24 16:16:42,233 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135401, Kline_1s timestep: 1698135401
+2023-10-24 16:16:43,219 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135402, Kline_1s timestep: 1698135402
+2023-10-24 16:16:56,884 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135403, Kline_1s timestep: 1698135403
+2023-10-24 16:16:56,963 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135404, Kline_1s timestep: 1698135404
+2023-10-24 16:16:57,059 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135405, Kline_1s timestep: 1698135405
+2023-10-24 16:16:57,249 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135407, Kline_1s timestep: 1698135407
+2023-10-24 16:16:57,488 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135409, Kline_1s timestep: 1698135409
+2023-10-24 16:16:59,035 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135410, Kline_1s timestep: 1698135410
+2023-10-24 16:16:59,304 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135411, Kline_1s timestep: 1698135411
+2023-10-24 16:16:59,396 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135412, Kline_1s timestep: 1698135412
+2023-10-24 16:16:59,398 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135413, Kline_1s timestep: 1698135413
+2023-10-24 16:17:01,030 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135414, Kline_1s timestep: 1698135414
+2023-10-24 16:17:02,580 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135415, Kline_1s timestep: 1698135415
+2023-10-24 16:17:02,760 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135416, Kline_1s timestep: 1698135416
+2023-10-24 16:17:02,762 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135417, Kline_1s timestep: 1698135417
+2023-10-24 16:17:02,764 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135418, Kline_1s timestep: 1698135418
+2023-10-24 16:17:02,765 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135419, Kline_1s timestep: 1698135419
+2023-10-24 16:17:02,853 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135420, Kline_1s timestep: 1698135420
+2023-10-24 16:17:03,778 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135421, Kline_1s timestep: 1698135421
+2023-10-24 16:17:03,781 - websocket_consumer.py[line:169] - INFO# Received data from RabbitMQ: Kline_1m timestep: 1698135422
+2023-10-24 16:17:05,393 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135422, Kline_1s timestep: 1698135422
+2023-10-24 16:17:05,675 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:02
+2023-10-24 16:17:06,176 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135423, Kline_1s timestep: 1698135423
+2023-10-24 16:17:06,386 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:03
+2023-10-24 16:17:06,387 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135424, Kline_1s timestep: 1698135424
+2023-10-24 16:17:06,642 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:04
+2023-10-24 16:17:08,007 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135425, Kline_1s timestep: 1698135425
+2023-10-24 16:17:08,204 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:05
+2023-10-24 16:17:08,746 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135426, Kline_1s timestep: 1698135426
+2023-10-24 16:17:08,941 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:06
+2023-10-24 16:17:08,942 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135427, Kline_1s timestep: 1698135427
+2023-10-24 16:17:09,193 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:07
+2023-10-24 16:17:09,403 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135428, Kline_1s timestep: 1698135428
+2023-10-24 16:17:09,599 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:08
+2023-10-24 16:17:10,343 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135429, Kline_1s timestep: 1698135429
+2023-10-24 16:17:10,555 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:09
+2023-10-24 16:17:11,222 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135430, Kline_1s timestep: 1698135430
+2023-10-24 16:17:11,425 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:10
+2023-10-24 16:17:12,878 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135431, Kline_1s timestep: 1698135431
+2023-10-24 16:17:13,083 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:11
+2023-10-24 16:17:13,305 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135432, Kline_1s timestep: 1698135432
+2023-10-24 16:17:13,534 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:12
+2023-10-24 16:17:14,618 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135433, Kline_1s timestep: 1698135433
+2023-10-24 16:17:14,818 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:13
+2023-10-24 16:17:15,326 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135434, Kline_1s timestep: 1698135434
+2023-10-24 16:17:15,534 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:14
+2023-10-24 16:17:16,325 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135435, Kline_1s timestep: 1698135435
+2023-10-24 16:17:16,541 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:15
+2023-10-24 16:17:17,352 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135436, Kline_1s timestep: 1698135436
+2023-10-24 16:17:17,585 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:16
+2023-10-24 16:17:18,331 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135437, Kline_1s timestep: 1698135437
+2023-10-24 16:17:18,541 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:17
+2023-10-24 16:17:19,338 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135438, Kline_1s timestep: 1698135438
+2023-10-24 16:17:19,536 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:18
+2023-10-24 16:17:20,741 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135439, Kline_1s timestep: 1698135439
+2023-10-24 16:17:20,944 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:19
+2023-10-24 16:17:21,434 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135440, Kline_1s timestep: 1698135440
+2023-10-24 16:17:21,627 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:20
+2023-10-24 16:17:22,243 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135441, Kline_1s timestep: 1698135441
+2023-10-24 16:17:22,441 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:21
+2023-10-24 16:17:23,246 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135442, Kline_1s timestep: 1698135442
+2023-10-24 16:17:23,442 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:22
+2023-10-24 16:17:24,241 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135443, Kline_1s timestep: 1698135443
+2023-10-24 16:17:24,436 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:23
+2023-10-24 16:17:25,253 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135444, Kline_1s timestep: 1698135444
+2023-10-24 16:17:25,448 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:24
+2023-10-24 16:17:26,252 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135445, Kline_1s timestep: 1698135445
+2023-10-24 16:17:26,501 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:25
+2023-10-24 16:17:27,252 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135446, Kline_1s timestep: 1698135446
+2023-10-24 16:17:27,499 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:26
+2023-10-24 16:17:28,243 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135447, Kline_1s timestep: 1698135447
+2023-10-24 16:17:28,433 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:27
+2023-10-24 16:17:29,568 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135448, Kline_1s timestep: 1698135448
+2023-10-24 16:17:29,767 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:28
+2023-10-24 16:17:30,518 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135449, Kline_1s timestep: 1698135449
+2023-10-24 16:17:30,710 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:29
+2023-10-24 16:17:31,319 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135450, Kline_1s timestep: 1698135450
+2023-10-24 16:17:31,515 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:30
+2023-10-24 16:17:32,242 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135451, Kline_1s timestep: 1698135451
+2023-10-24 16:17:32,438 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:31
+2023-10-24 16:17:33,349 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135452, Kline_1s timestep: 1698135452
+2023-10-24 16:17:33,540 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:32
+2023-10-24 16:17:34,440 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135453, Kline_1s timestep: 1698135453
+2023-10-24 16:17:34,635 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:33
+2023-10-24 16:17:35,332 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135454, Kline_1s timestep: 1698135454
+2023-10-24 16:17:35,526 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:34
+2023-10-24 16:17:38,191 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135456, Kline_1s timestep: 1698135456
+2023-10-24 16:17:38,386 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:36
+2023-10-24 16:17:38,906 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135457, Kline_1s timestep: 1698135457
+2023-10-24 16:17:39,101 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:37
+2023-10-24 16:17:40,345 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135459, Kline_1s timestep: 1698135459
+2023-10-24 16:17:40,538 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:39
+2023-10-24 16:17:41,337 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135460, Kline_1s timestep: 1698135460
+2023-10-24 16:17:41,532 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:40
+2023-10-24 16:17:42,442 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135461, Kline_1s timestep: 1698135461
+2023-10-24 16:17:42,636 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:41
+2023-10-24 16:17:43,432 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135462, Kline_1s timestep: 1698135462
+2023-10-24 16:17:43,631 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:42
+2023-10-24 16:17:44,364 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135463, Kline_1s timestep: 1698135463
+2023-10-24 16:17:44,594 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:43
+2023-10-24 16:17:45,438 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135464, Kline_1s timestep: 1698135464
+2023-10-24 16:17:45,631 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:44
+2023-10-24 16:17:46,247 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135465, Kline_1s timestep: 1698135465
+2023-10-24 16:17:46,458 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:45
+2023-10-24 16:17:47,246 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135466, Kline_1s timestep: 1698135466
+2023-10-24 16:17:47,438 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:46
+2023-10-24 16:17:48,234 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135467, Kline_1s timestep: 1698135467
+2023-10-24 16:17:48,426 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:47
+2023-10-24 16:17:49,352 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135468, Kline_1s timestep: 1698135468
+2023-10-24 16:17:49,547 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:48
+2023-10-24 16:17:50,247 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135469, Kline_1s timestep: 1698135469
+2023-10-24 16:17:50,441 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:49
+2023-10-24 16:17:51,457 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135470, Kline_1s timestep: 1698135470
+2023-10-24 16:17:51,687 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:50
+2023-10-24 16:17:52,354 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135471, Kline_1s timestep: 1698135471
+2023-10-24 16:17:52,559 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:51
+2023-10-24 16:17:53,244 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135472, Kline_1s timestep: 1698135472
+2023-10-24 16:17:53,446 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:52
+2023-10-24 16:17:54,352 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135473, Kline_1s timestep: 1698135473
+2023-10-24 16:17:54,544 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:53
+2023-10-24 16:17:55,232 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135474, Kline_1s timestep: 1698135474
+2023-10-24 16:17:55,425 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:54
+2023-10-24 16:17:56,326 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135475, Kline_1s timestep: 1698135475
+2023-10-24 16:17:56,535 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:55
+2023-10-24 16:17:57,365 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135476, Kline_1s timestep: 1698135476
+2023-10-24 16:17:57,557 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:56
+2023-10-24 16:17:58,248 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135477, Kline_1s timestep: 1698135477
+2023-10-24 16:17:58,442 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:57
+2023-10-24 16:17:59,253 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135478, Kline_1s timestep: 1698135478
+2023-10-24 16:17:59,447 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:58
+2023-10-24 16:18:00,233 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135479, Kline_1s timestep: 1698135479
+2023-10-24 16:18:00,431 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:17:59
+2023-10-24 16:18:01,251 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135480, Kline_1s timestep: 1698135480
+2023-10-24 16:18:01,465 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:18:00
+2023-10-24 16:18:02,252 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135481, Kline_1s timestep: 1698135481
+2023-10-24 16:18:02,444 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:18:01
+2023-10-24 16:18:03,254 - websocket_consumer.py[line:159] - INFO# Received data from RabbitMQ: Order book timestep: 1698135482, Kline_1s timestep: 1698135482
+2023-10-24 16:18:03,458 - websocket_consumer.py[line:187] - INFO# Action info: 0, Kline timestep: 2023-10-24 08:18:02
+2023-10-24 16:18:03,458 - websocket_consumer.py[line:169] - INFO# Received data from RabbitMQ: Kline_1m timestep: 1698135482

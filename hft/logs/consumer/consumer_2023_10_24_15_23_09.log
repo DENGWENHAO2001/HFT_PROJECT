@@ -1,0 +1,3 @@
+2023-10-24 15:23:09,968 - websocket_consumer.py[line:193] - INFO# Waiting for message.
+2023-10-24 15:23:09,968 - websocket_consumer.py[line:154] - INFO# Received data from RabbitMQ: Order book timestep: 1698132161, Kline_1s timestep: 1698132161
+2023-10-24 15:23:09,971 - websocket_consumer.py[line:154] - INFO# Received data from RabbitMQ: Order book timestep: 1698132162, Kline_1s timestep: 1698132162

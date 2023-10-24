@@ -1,0 +1,868 @@
+2023-10-24 15:19:03,789 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:03,789 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:03,790 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:03
+2023-10-24 15:19:03,790 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:03
+2023-10-24 15:19:04,776 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:04,776 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:04,776 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:04
+2023-10-24 15:19:04,776 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:04
+2023-10-24 15:19:05,894 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:05,894 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:05,895 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:05
+2023-10-24 15:19:05,895 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:05
+2023-10-24 15:19:06,779 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:06,779 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:06,779 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:06
+2023-10-24 15:19:06,779 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:06
+2023-10-24 15:19:07,841 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:07,841 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:07,841 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:07
+2023-10-24 15:19:07,841 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:07
+2023-10-24 15:19:08,798 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:08,798 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:08,799 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:08
+2023-10-24 15:19:08,799 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:08
+2023-10-24 15:19:09,781 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:09,781 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:09,782 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:09
+2023-10-24 15:19:09,782 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:09
+2023-10-24 15:19:10,791 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:10,791 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:10,791 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:10
+2023-10-24 15:19:10,791 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:10
+2023-10-24 15:19:11,775 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:11,775 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:11,775 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:11
+2023-10-24 15:19:11,775 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:11
+2023-10-24 15:19:12,799 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:12,799 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:12,799 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:12
+2023-10-24 15:19:12,799 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:12
+2023-10-24 15:19:13,789 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:13,789 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:13,789 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:13
+2023-10-24 15:19:13,789 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:13
+2023-10-24 15:19:14,781 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:14,781 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:14,782 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:14
+2023-10-24 15:19:14,782 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:14
+2023-10-24 15:19:15,787 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:15,787 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:15,788 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:15
+2023-10-24 15:19:15,788 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:15
+2023-10-24 15:19:16,779 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:16,779 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:16,779 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:16
+2023-10-24 15:19:16,779 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:16
+2023-10-24 15:19:17,786 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:17,786 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:17,786 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:17
+2023-10-24 15:19:17,786 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:17
+2023-10-24 15:19:18,858 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:18,858 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:18,859 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:18
+2023-10-24 15:19:18,859 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:18
+2023-10-24 15:19:19,768 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:19,768 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:19,768 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:19
+2023-10-24 15:19:19,768 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:19
+2023-10-24 15:19:20,780 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:20,780 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:20,781 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:20
+2023-10-24 15:19:20,781 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:20
+2023-10-24 15:19:21,903 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:21,903 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:21,903 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:21
+2023-10-24 15:19:21,903 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:21
+2023-10-24 15:19:22,771 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:22,771 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:22,772 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:22
+2023-10-24 15:19:22,772 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:22
+2023-10-24 15:19:23,767 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:23,767 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:23,767 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:23
+2023-10-24 15:19:23,767 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:23
+2023-10-24 15:19:24,852 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:24,852 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:24,852 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:24
+2023-10-24 15:19:24,852 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:24
+2023-10-24 15:19:25,904 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:25,904 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:25,904 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:25
+2023-10-24 15:19:25,904 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:25
+2023-10-24 15:19:26,828 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:26,828 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:26,828 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:26
+2023-10-24 15:19:26,828 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:26
+2023-10-24 15:19:27,770 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:27,770 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:27,770 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:27
+2023-10-24 15:19:27,770 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:27
+2023-10-24 15:19:28,771 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:28,771 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:28,772 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:28
+2023-10-24 15:19:28,772 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:28
+2023-10-24 15:19:29,903 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:29,903 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:29,903 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:29
+2023-10-24 15:19:29,903 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:29
+2023-10-24 15:19:30,767 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:30,767 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:30,768 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:30
+2023-10-24 15:19:30,768 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:30
+2023-10-24 15:19:31,781 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:31,781 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:31,781 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:31
+2023-10-24 15:19:31,781 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:31
+2023-10-24 15:19:32,763 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:32,763 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:32,763 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:32
+2023-10-24 15:19:32,763 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:32
+2023-10-24 15:19:33,881 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:33,881 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:33,881 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:33
+2023-10-24 15:19:33,881 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:33
+2023-10-24 15:19:34,779 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:34,779 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:34,779 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:34
+2023-10-24 15:19:34,779 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:34
+2023-10-24 15:19:35,788 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:35,788 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:35,788 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:35
+2023-10-24 15:19:35,788 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:35
+2023-10-24 15:19:36,777 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:36,777 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:36,778 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:36
+2023-10-24 15:19:36,778 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:36
+2023-10-24 15:19:37,897 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:37,897 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:37,897 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:37
+2023-10-24 15:19:37,897 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:37
+2023-10-24 15:19:38,778 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:38,778 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:38,779 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:38
+2023-10-24 15:19:38,779 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:38
+2023-10-24 15:19:39,776 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:39,776 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:39,776 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:39
+2023-10-24 15:19:39,776 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:39
+2023-10-24 15:19:40,783 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:40,783 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:40,783 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:40
+2023-10-24 15:19:40,783 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:40
+2023-10-24 15:19:41,929 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:41,929 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:41,930 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:41
+2023-10-24 15:19:41,930 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:41
+2023-10-24 15:19:42,791 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:42,791 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:42,791 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:42
+2023-10-24 15:19:42,791 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:42
+2023-10-24 15:19:43,831 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:43,831 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:43,832 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:43
+2023-10-24 15:19:43,832 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:43
+2023-10-24 15:19:44,799 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:44,799 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:44,800 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:44
+2023-10-24 15:19:44,800 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:44
+2023-10-24 15:19:45,911 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:45,911 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:45,912 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:45
+2023-10-24 15:19:45,912 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:45
+2023-10-24 15:19:46,885 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:46,885 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:46,885 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:46
+2023-10-24 15:19:46,885 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:46
+2023-10-24 15:19:47,775 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:47,775 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:47,776 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:47
+2023-10-24 15:19:47,776 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:47
+2023-10-24 15:19:48,779 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:48,779 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:48,779 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:48
+2023-10-24 15:19:48,779 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:48
+2023-10-24 15:19:49,896 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:49,896 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:49,896 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:49
+2023-10-24 15:19:49,896 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:49
+2023-10-24 15:19:50,791 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:50,791 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:50,791 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:50
+2023-10-24 15:19:50,791 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:50
+2023-10-24 15:19:51,796 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:51,796 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:51,796 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:51
+2023-10-24 15:19:51,796 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:51
+2023-10-24 15:19:52,786 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:52,786 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:52,786 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:52
+2023-10-24 15:19:52,786 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:52
+2023-10-24 15:19:53,941 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:53,941 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:53,942 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:53
+2023-10-24 15:19:53,942 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:53
+2023-10-24 15:19:54,783 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:54,783 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:54,784 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:54
+2023-10-24 15:19:54,784 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:54
+2023-10-24 15:19:55,822 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:55,822 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:55,823 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:55
+2023-10-24 15:19:55,823 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:55
+2023-10-24 15:19:56,776 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:56,776 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:56,777 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:56
+2023-10-24 15:19:56,777 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:56
+2023-10-24 15:19:57,811 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:57,811 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:57,811 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:57
+2023-10-24 15:19:57,811 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:57
+2023-10-24 15:19:58,798 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:58,798 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:58,799 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:58
+2023-10-24 15:19:58,799 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:58
+2023-10-24 15:19:59,831 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:59,831 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:19:59,831 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:59
+2023-10-24 15:19:59,831 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:19:59
+2023-10-24 15:20:00,776 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:00,776 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:00,776 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:00
+2023-10-24 15:20:00,776 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:00
+2023-10-24 15:20:01,922 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:01,922 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:01,922 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:01
+2023-10-24 15:20:01,922 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:01
+2023-10-24 15:20:02,768 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:02,768 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:02,768 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:02
+2023-10-24 15:20:02,768 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:02
+2023-10-24 15:20:03,791 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:03,791 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:03,791 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:03
+2023-10-24 15:20:03,791 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:03
+2023-10-24 15:20:04,843 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:04,843 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:04,843 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:04
+2023-10-24 15:20:04,843 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:04
+2023-10-24 15:20:05,897 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:05,897 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:05,897 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:05
+2023-10-24 15:20:05,897 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:05
+2023-10-24 15:20:06,771 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:06,771 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:06,771 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:06
+2023-10-24 15:20:06,771 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:06
+2023-10-24 15:20:07,810 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:07,810 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:07,810 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:07
+2023-10-24 15:20:07,810 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:07
+2023-10-24 15:20:08,795 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:08,795 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:08,796 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:08
+2023-10-24 15:20:08,796 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:08
+2023-10-24 15:20:09,896 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:09,896 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:09,896 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:09
+2023-10-24 15:20:09,896 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:09
+2023-10-24 15:20:10,872 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:10,872 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:10,872 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:10
+2023-10-24 15:20:10,872 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:10
+2023-10-24 15:20:11,817 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:11,817 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:11,817 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:11
+2023-10-24 15:20:11,817 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:11
+2023-10-24 15:20:12,766 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:12,766 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:12,766 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:12
+2023-10-24 15:20:12,766 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:12
+2023-10-24 15:20:13,894 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:13,894 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:13,894 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:13
+2023-10-24 15:20:13,894 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:13
+2023-10-24 15:20:14,858 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:14,858 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:14,859 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:14
+2023-10-24 15:20:14,859 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:14
+2023-10-24 15:20:15,797 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:15,797 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:15,797 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:15
+2023-10-24 15:20:15,797 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:15
+2023-10-24 15:20:16,779 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:16,779 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:16,779 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:16
+2023-10-24 15:20:16,779 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:16
+2023-10-24 15:20:17,790 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:17,790 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:17,790 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:17
+2023-10-24 15:20:17,790 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:17
+2023-10-24 15:20:18,772 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:18,772 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:18,772 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:18
+2023-10-24 15:20:18,772 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:18
+2023-10-24 15:20:19,776 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:19,776 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:19,777 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:19
+2023-10-24 15:20:19,777 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:19
+2023-10-24 15:20:20,792 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:20,792 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:20,792 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:20
+2023-10-24 15:20:20,792 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:20
+2023-10-24 15:20:21,895 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:21,895 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:21,895 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:21
+2023-10-24 15:20:21,895 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:21
+2023-10-24 15:20:22,876 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:22,876 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:22,876 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:22
+2023-10-24 15:20:22,876 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:22
+2023-10-24 15:20:24,005 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:24,005 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:24,005 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:23
+2023-10-24 15:20:24,005 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:23
+2023-10-24 15:20:24,773 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:24,773 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:24,773 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:24
+2023-10-24 15:20:24,773 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:24
+2023-10-24 15:20:25,917 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:25,917 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:25,918 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:25
+2023-10-24 15:20:25,918 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:25
+2023-10-24 15:20:26,876 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:26,876 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:26,876 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:26
+2023-10-24 15:20:26,876 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:26
+2023-10-24 15:20:27,791 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:27,791 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:27,791 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:27
+2023-10-24 15:20:27,791 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:27
+2023-10-24 15:20:28,811 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:28,811 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:28,812 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:28
+2023-10-24 15:20:28,812 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:28
+2023-10-24 15:20:29,905 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:29,905 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:29,906 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:29
+2023-10-24 15:20:29,906 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:29
+2023-10-24 15:20:30,783 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:30,783 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:30,784 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:30
+2023-10-24 15:20:30,784 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:30
+2023-10-24 15:20:31,790 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:31,790 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:31,790 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:31
+2023-10-24 15:20:31,790 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:31
+2023-10-24 15:20:32,808 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:32,808 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:32,808 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:32
+2023-10-24 15:20:32,808 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:32
+2023-10-24 15:20:33,956 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:33,956 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:33,956 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:33
+2023-10-24 15:20:33,956 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:33
+2023-10-24 15:20:34,769 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:34,769 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:34,770 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:34
+2023-10-24 15:20:34,770 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:34
+2023-10-24 15:20:35,829 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:35,829 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:35,830 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:35
+2023-10-24 15:20:35,830 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:35
+2023-10-24 15:20:36,807 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:36,807 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:36,807 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:36
+2023-10-24 15:20:36,807 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:36
+2023-10-24 15:20:37,913 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:37,913 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:37,913 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:37
+2023-10-24 15:20:37,913 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:37
+2023-10-24 15:20:38,777 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:38,777 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:38,777 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:38
+2023-10-24 15:20:38,777 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:38
+2023-10-24 15:20:39,785 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:39,785 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:39,786 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:39
+2023-10-24 15:20:39,786 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:39
+2023-10-24 15:20:40,810 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:40,810 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:40,810 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:40
+2023-10-24 15:20:40,810 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:40
+2023-10-24 15:20:41,903 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:41,903 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:41,903 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:41
+2023-10-24 15:20:41,903 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:41
+2023-10-24 15:20:42,780 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:42,780 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:42,780 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:42
+2023-10-24 15:20:42,780 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:42
+2023-10-24 15:20:44,077 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:44,077 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:44,078 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:43
+2023-10-24 15:20:44,078 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:43
+2023-10-24 15:20:45,118 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:45,118 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:45,119 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:44
+2023-10-24 15:20:45,119 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:44
+2023-10-24 15:20:46,171 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:46,171 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:46,172 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:45
+2023-10-24 15:20:46,172 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:45
+2023-10-24 15:20:47,124 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:47,124 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:47,125 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:46
+2023-10-24 15:20:47,125 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:46
+2023-10-24 15:20:48,053 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:48,053 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:48,054 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:47
+2023-10-24 15:20:48,054 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:47
+2023-10-24 15:20:48,924 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:48,924 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:48,924 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:48
+2023-10-24 15:20:48,924 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:48
+2023-10-24 15:20:50,091 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:50,091 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:50,091 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:49
+2023-10-24 15:20:50,091 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:49
+2023-10-24 15:20:51,048 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:51,048 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:51,049 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:50
+2023-10-24 15:20:51,049 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:50
+2023-10-24 15:20:51,971 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:51,971 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:51,971 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:51
+2023-10-24 15:20:51,971 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:51
+2023-10-24 15:20:53,014 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:53,014 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:53,015 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:52
+2023-10-24 15:20:53,015 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:52
+2023-10-24 15:20:54,097 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:54,097 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:54,097 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:53
+2023-10-24 15:20:54,097 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:53
+2023-10-24 15:20:55,015 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:55,015 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:55,015 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:54
+2023-10-24 15:20:55,015 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:54
+2023-10-24 15:20:55,995 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:55,995 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:55,996 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:55
+2023-10-24 15:20:55,996 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:55
+2023-10-24 15:20:56,884 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:56,884 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:56,885 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:56
+2023-10-24 15:20:56,885 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:56
+2023-10-24 15:20:58,024 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:58,024 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:58,025 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:57
+2023-10-24 15:20:58,025 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:57
+2023-10-24 15:20:58,968 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:58,968 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:58,968 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:58
+2023-10-24 15:20:58,968 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:58
+2023-10-24 15:20:59,930 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:59,930 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:20:59,930 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:59
+2023-10-24 15:20:59,930 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:20:59
+2023-10-24 15:21:00,927 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:00,927 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:00,927 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:00
+2023-10-24 15:21:00,927 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:00
+2023-10-24 15:21:02,014 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:02,014 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:02,014 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:01
+2023-10-24 15:21:02,014 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:01
+2023-10-24 15:21:02,984 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:02,984 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:02,985 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:02
+2023-10-24 15:21:02,985 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:02
+2023-10-24 15:21:04,084 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:04,084 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:04,085 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:03
+2023-10-24 15:21:04,085 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:03
+2023-10-24 15:21:04,972 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:04,972 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:04,973 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:04
+2023-10-24 15:21:04,973 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:04
+2023-10-24 15:21:06,058 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:06,058 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:06,059 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:05
+2023-10-24 15:21:06,059 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:05
+2023-10-24 15:21:06,977 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:06,977 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:06,978 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:06
+2023-10-24 15:21:06,978 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:06
+2023-10-24 15:21:07,856 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:07,856 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:07,856 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:07
+2023-10-24 15:21:07,856 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:07
+2023-10-24 15:21:08,836 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:08,836 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:08,836 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:08
+2023-10-24 15:21:08,836 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:08
+2023-10-24 15:21:09,963 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:09,963 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:09,963 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:09
+2023-10-24 15:21:09,963 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:09
+2023-10-24 15:21:10,928 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:10,928 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:10,928 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:10
+2023-10-24 15:21:10,928 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:10
+2023-10-24 15:21:12,096 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:12,096 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:12,097 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:11
+2023-10-24 15:21:12,097 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:11
+2023-10-24 15:21:13,162 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:13,162 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:13,163 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:12
+2023-10-24 15:21:13,163 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:12
+2023-10-24 15:21:14,025 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:14,025 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:14,026 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:13
+2023-10-24 15:21:14,026 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:13
+2023-10-24 15:21:15,104 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:15,104 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:15,104 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:14
+2023-10-24 15:21:15,104 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:14
+2023-10-24 15:21:16,079 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:16,079 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:16,079 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:15
+2023-10-24 15:21:16,079 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:15
+2023-10-24 15:21:16,897 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:16,897 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:16,898 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:16
+2023-10-24 15:21:16,898 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:16
+2023-10-24 15:21:18,026 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:18,026 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:18,027 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:17
+2023-10-24 15:21:18,027 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:17
+2023-10-24 15:21:19,068 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:19,068 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:19,069 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:18
+2023-10-24 15:21:19,069 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:18
+2023-10-24 15:21:19,965 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:19,965 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:19,966 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:19
+2023-10-24 15:21:19,966 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:19
+2023-10-24 15:21:20,931 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:20,931 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:20,931 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:20
+2023-10-24 15:21:20,931 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:20
+2023-10-24 15:21:22,009 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:22,009 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:22,009 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:21
+2023-10-24 15:21:22,009 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:21
+2023-10-24 15:21:22,832 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:22,832 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:22,832 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:22
+2023-10-24 15:21:22,832 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:22
+2023-10-24 15:21:23,903 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:23,903 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:23,903 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:23
+2023-10-24 15:21:23,903 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:23
+2023-10-24 15:21:24,823 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:24,823 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:24,823 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:24
+2023-10-24 15:21:24,823 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:24
+2023-10-24 15:21:25,946 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:25,946 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:25,947 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:25
+2023-10-24 15:21:25,947 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:25
+2023-10-24 15:21:26,927 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:26,927 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:26,928 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:26
+2023-10-24 15:21:26,928 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:26
+2023-10-24 15:21:27,887 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:27,887 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:27,887 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:27
+2023-10-24 15:21:27,887 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:27
+2023-10-24 15:21:28,898 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:28,898 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:28,899 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:28
+2023-10-24 15:21:28,899 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:28
+2023-10-24 15:21:30,003 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:30,003 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:30,004 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:29
+2023-10-24 15:21:30,004 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:29
+2023-10-24 15:21:30,919 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:30,919 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:30,919 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:30
+2023-10-24 15:21:30,919 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:30
+2023-10-24 15:21:31,809 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:31,809 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:31,810 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:31
+2023-10-24 15:21:31,810 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:31
+2023-10-24 15:21:32,814 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:32,814 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:32,815 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:32
+2023-10-24 15:21:32,815 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:32
+2023-10-24 15:21:33,938 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:33,938 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:33,939 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:33
+2023-10-24 15:21:33,939 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:33
+2023-10-24 15:21:34,806 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:34,806 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:34,806 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:34
+2023-10-24 15:21:34,806 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:34
+2023-10-24 15:21:35,828 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:35,828 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:35,829 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:35
+2023-10-24 15:21:35,829 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:35
+2023-10-24 15:21:36,810 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:36,810 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:36,811 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:36
+2023-10-24 15:21:36,811 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:36
+2023-10-24 15:21:38,006 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:38,006 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:38,007 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:37
+2023-10-24 15:21:38,007 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:37
+2023-10-24 15:21:38,911 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:38,911 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:38,912 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:38
+2023-10-24 15:21:38,912 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:38
+2023-10-24 15:21:39,885 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:39,885 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:39,885 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:39
+2023-10-24 15:21:39,885 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:39
+2023-10-24 15:21:40,840 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:40,840 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:40,841 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:40
+2023-10-24 15:21:40,841 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:40
+2023-10-24 15:21:41,933 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:41,933 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:41,933 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:41
+2023-10-24 15:21:41,933 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:41
+2023-10-24 15:21:42,899 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:42,899 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:42,900 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:42
+2023-10-24 15:21:42,900 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:42
+2023-10-24 15:21:43,885 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:43,885 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:43,886 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:43
+2023-10-24 15:21:43,886 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:43
+2023-10-24 15:21:44,807 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:44,807 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:44,808 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:44
+2023-10-24 15:21:44,808 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:44
+2023-10-24 15:21:46,095 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:46,095 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:46,095 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:45
+2023-10-24 15:21:46,095 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:45
+2023-10-24 15:21:46,837 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:46,837 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:46,838 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:46
+2023-10-24 15:21:46,838 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:46
+2023-10-24 15:21:47,891 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:47,891 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:47,892 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:47
+2023-10-24 15:21:47,892 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:47
+2023-10-24 15:21:48,913 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:48,913 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:48,914 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:48
+2023-10-24 15:21:48,914 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:48
+2023-10-24 15:21:50,038 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:50,038 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:50,039 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:49
+2023-10-24 15:21:50,039 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:49
+2023-10-24 15:21:50,886 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:50,886 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:50,886 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:50
+2023-10-24 15:21:50,886 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:50
+2023-10-24 15:21:51,834 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:51,834 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:51,834 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:51
+2023-10-24 15:21:51,834 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:51
+2023-10-24 15:21:52,862 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:52,862 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:52,862 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:52
+2023-10-24 15:21:52,862 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:52
+2023-10-24 15:21:54,091 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:54,091 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:54,092 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:53
+2023-10-24 15:21:54,092 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:53
+2023-10-24 15:21:55,001 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:55,001 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:55,002 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:54
+2023-10-24 15:21:55,002 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:54
+2023-10-24 15:21:55,813 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:55,813 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:55,813 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:55
+2023-10-24 15:21:55,813 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:55
+2023-10-24 15:21:56,866 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:56,866 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:56,866 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:56
+2023-10-24 15:21:56,866 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:56
+2023-10-24 15:21:57,894 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:57,894 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:57,895 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:57
+2023-10-24 15:21:57,895 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:57
+2023-10-24 15:21:58,817 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:58,817 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:58,817 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:58
+2023-10-24 15:21:58,817 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:58
+2023-10-24 15:21:59,955 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:59,955 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:21:59,955 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:59
+2023-10-24 15:21:59,955 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:21:59
+2023-10-24 15:22:00,904 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:00,904 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:00,905 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:00
+2023-10-24 15:22:00,905 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:00
+2023-10-24 15:22:02,098 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:02,098 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:02,098 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:01
+2023-10-24 15:22:02,098 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:01
+2023-10-24 15:22:02,913 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:02,913 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:02,914 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:02
+2023-10-24 15:22:02,914 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:02
+2023-10-24 15:22:03,913 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:03,913 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:03,913 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:03
+2023-10-24 15:22:03,913 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:03
+2023-10-24 15:22:04,890 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:04,890 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:04,890 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:04
+2023-10-24 15:22:04,890 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:04
+2023-10-24 15:22:05,928 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:05,928 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:05,928 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:05
+2023-10-24 15:22:05,928 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:05
+2023-10-24 15:22:06,937 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:06,937 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:06,938 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:06
+2023-10-24 15:22:06,938 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:06
+2023-10-24 15:22:07,849 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:07,849 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:07,850 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:07
+2023-10-24 15:22:07,850 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:07
+2023-10-24 15:22:09,019 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:09,019 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:09,020 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:08
+2023-10-24 15:22:09,020 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:08
+2023-10-24 15:22:10,133 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:10,133 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:10,134 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:09
+2023-10-24 15:22:10,134 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:09
+2023-10-24 15:22:10,826 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:10,826 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:10,827 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:10
+2023-10-24 15:22:10,827 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:10
+2023-10-24 15:22:11,817 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:11,817 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:11,818 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:11
+2023-10-24 15:22:11,818 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:11
+2023-10-24 15:22:12,850 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:12,850 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:12,851 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:12
+2023-10-24 15:22:12,851 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:12
+2023-10-24 15:22:14,041 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:14,041 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:14,042 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:13
+2023-10-24 15:22:14,042 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:13
+2023-10-24 15:22:14,818 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:14,818 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:14,819 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:14
+2023-10-24 15:22:14,819 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:14
+2023-10-24 15:22:15,800 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:15,800 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:15,801 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:15
+2023-10-24 15:22:15,801 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:15
+2023-10-24 15:22:16,801 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:16,801 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:16,801 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:16
+2023-10-24 15:22:16,801 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:16
+2023-10-24 15:22:17,940 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:17,940 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:17,941 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:17
+2023-10-24 15:22:17,941 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:17
+2023-10-24 15:22:18,883 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:18,883 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:18,884 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:18
+2023-10-24 15:22:18,884 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:18
+2023-10-24 15:22:19,808 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:19,808 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:19,809 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:19
+2023-10-24 15:22:19,809 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:19
+2023-10-24 15:22:20,816 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:20,816 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:20,816 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:20
+2023-10-24 15:22:20,816 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:20
+2023-10-24 15:22:21,918 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:21,918 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:21,918 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:21
+2023-10-24 15:22:21,918 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:21
+2023-10-24 15:22:22,896 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:22,896 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:22,897 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:22
+2023-10-24 15:22:22,897 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:22
+2023-10-24 15:22:23,898 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:23,898 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:23,899 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:23
+2023-10-24 15:22:23,899 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:23
+2023-10-24 15:22:25,039 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:25,039 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:25,040 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:24
+2023-10-24 15:22:25,040 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:24
+2023-10-24 15:22:26,100 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:26,100 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:26,101 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:25
+2023-10-24 15:22:26,101 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:25
+2023-10-24 15:22:26,888 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:26,888 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:26,888 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:26
+2023-10-24 15:22:26,888 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:26
+2023-10-24 15:22:27,971 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:27,971 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:27,971 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:27
+2023-10-24 15:22:27,971 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:27
+2023-10-24 15:22:28,852 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:28,852 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:28,852 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:28
+2023-10-24 15:22:28,852 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:28
+2023-10-24 15:22:29,920 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:29,920 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:29,921 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:29
+2023-10-24 15:22:29,921 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:29
+2023-10-24 15:22:30,926 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:30,926 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:30,927 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:30
+2023-10-24 15:22:30,927 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:30
+2023-10-24 15:22:31,848 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:31,848 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:31,849 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:31
+2023-10-24 15:22:31,849 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:31
+2023-10-24 15:22:32,849 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:32,849 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:32,850 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:32
+2023-10-24 15:22:32,850 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:32
+2023-10-24 15:22:33,880 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:33,880 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:33,880 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:33
+2023-10-24 15:22:33,880 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:33
+2023-10-24 15:22:34,977 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:34,977 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:34,977 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:34
+2023-10-24 15:22:34,977 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:34
+2023-10-24 15:22:35,977 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:35,977 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:35,978 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:35
+2023-10-24 15:22:35,978 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:35
+2023-10-24 15:22:36,957 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:36,957 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:36,958 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:36
+2023-10-24 15:22:36,958 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:36
+2023-10-24 15:22:38,218 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:38,218 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:38,218 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:37
+2023-10-24 15:22:38,218 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:37
+2023-10-24 15:22:39,051 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:39,051 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:39,051 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:38
+2023-10-24 15:22:39,051 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:38
+2023-10-24 15:22:39,825 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:39,825 - websocket_consumer.py[line:178] - INFO# 0.0
+2023-10-24 15:22:39,825 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:39
+2023-10-24 15:22:39,825 - websocket_consumer.py[line:180] - INFO# timestamp:2023-10-24 07:22:39

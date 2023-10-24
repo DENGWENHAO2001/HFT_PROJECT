@@ -1,0 +1,8 @@
+2023-10-24 15:02:42,723 - kline_websocket_stream.py[line:55] - INFO# WebSocket error: [Errno 11001] getaddrinfo failed
+2023-10-24 15:02:42,723 - orderbook_websocket_stream.py[line:151] - INFO# WebSocket error: [Errno 11001] getaddrinfo failed
+2023-10-24 15:02:42,723 - orderbook_websocket_stream.py[line:51] - INFO# WebSocket error: [Errno 11001] getaddrinfo failed
+2023-10-24 15:02:42,723 - kline_websocket_stream.py[line:55] - INFO# WebSocket error: KlineWebsocketStream.on_close() takes 2 positional arguments but 4 were given
+2023-10-24 15:02:42,723 - kline_websocket_stream.py[line:55] - INFO# WebSocket error: [Errno 11001] getaddrinfo failed
+2023-10-24 15:02:42,723 - orderbook_websocket_stream.py[line:151] - INFO# WebSocket error: OrderbookDataWebsocketStream.on_close() takes 2 positional arguments but 4 were given
+2023-10-24 15:02:42,724 - orderbook_websocket_stream.py[line:51] - INFO# WebSocket error: OrderBookTimeWebsocketStream.on_close() takes 2 positional arguments but 4 were given
+2023-10-24 15:02:42,724 - kline_websocket_stream.py[line:55] - INFO# WebSocket error: KlineWebsocketStream.on_close() takes 2 positional arguments but 4 were given

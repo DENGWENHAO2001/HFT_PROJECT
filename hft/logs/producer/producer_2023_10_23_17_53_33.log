@@ -1,0 +1,8 @@
+2023-10-23 17:53:36,150 - kline_websocket_stream.py[line:55] - INFO# WebSocket error: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2023-10-23 17:53:36,276 - kline_websocket_stream.py[line:55] - INFO# WebSocket error: KlineWebsocketStream.on_close() takes 2 positional arguments but 4 were given
+2023-10-23 17:53:36,276 - orderbook_websocket_stream.py[line:51] - INFO# WebSocket error: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2023-10-23 17:53:36,284 - orderbook_websocket_stream.py[line:151] - INFO# WebSocket error: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2023-10-23 17:53:36,285 - orderbook_websocket_stream.py[line:51] - INFO# WebSocket error: OrderBookTimeWebsocketStream.on_close() takes 2 positional arguments but 4 were given
+2023-10-23 17:53:36,285 - orderbook_websocket_stream.py[line:151] - INFO# WebSocket error: OrderbookDataWebsocketStream.on_close() takes 2 positional arguments but 4 were given
+2023-10-23 17:53:36,293 - kline_websocket_stream.py[line:55] - INFO# WebSocket error: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2023-10-23 17:53:36,301 - kline_websocket_stream.py[line:55] - INFO# WebSocket error: KlineWebsocketStream.on_close() takes 2 positional arguments but 4 were given

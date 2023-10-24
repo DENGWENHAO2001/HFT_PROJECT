@@ -6,7 +6,7 @@ from celery import shared_task
 import pandas as pd
 import argparse
 import yaml
-
+from datetime import datetime
 ROOT = os.path.dirname(os.path.abspath(__file__))#os.path.dirname(os.path.dirname(__file__))
 sys.path.append(ROOT)
 sys.path.insert(0, "hft/tools")
@@ -31,12 +31,17 @@ def get_args_parser():
     return args
 
 class Consumer():
-    def __init__(self, args, cache_kline_windows = [2,3,4,5]):
+    def __init__(self, args, cache_kline_windows = [5,10,30,60]):
         self.args = args
         self.agent = HFTDDQN(self.args)
-
         self.logger = get_logger(os.path.join(ROOT, "hft/logs", "consumer"), "consumer")
+        self.logger_ddqn = get_logger(os.path.join(ROOT, "hft/logs", "trader"), "trader")
+
         self.logger_feature = get_logger(os.path.join(ROOT, "hft/logs", "consumer"), "feature")
+
+
+
+
 
         self.cache_kline_windows = cache_kline_windows
         self.max_kline_windows = max(cache_kline_windows)
@@ -152,7 +157,7 @@ class Consumer():
                 kline_1s_timestep = str(int(data["kline_1s"]["timestep"]) // 1000)
 
                 self.logger.info("Received data from RabbitMQ: Order book timestep: {}, Kline_1s timestep: {}".format(orderbook_timestep, kline_1s_timestep))
-                
+
                 self.cache_kline_data('s', data["kline_1s"])
                 self.cache_orderbook_data(data["orderbook"])
 
@@ -165,17 +170,23 @@ class Consumer():
 
                 self.cache_kline_data('m', data["kline_1m"])
 
-            print(len(self.cache_kline_df['m']),self.max_kline_windows + 1,data['interval'])
+            # print()
+
             if len(self.cache_kline_df['m']) >= self.max_kline_windows + 1 and data['interval'] == '1s':
                 features = self.processor.run(self.cache_kline_df, self.cache_orderbook_df)
 
 
 
-                action_infos = self.agent.run(features,data)
+                action_infos ,previous_action= self.agent.run(features,data)
 
+                timestamp=int(data["kline_1s"]["timestep"]) // 1000  #
+
+                self.logger_ddqn.info(
+                    "timestamp:{},position:{},output_action:{},price_info:{}"
+                    .format(datetime.utcfromtimestamp(timestamp), previous_action * 0.01 / 4, action_infos,{k: v for k, v in data["orderbook"].items() if k != "timestep"}))#
                 self.logger.info(
                 "Action info: {}, Kline timestep: {}"
-                .format(action_infos,data["kline_1s"]["timestep"] ))#kline_1m_timestep
+                .format(action_infos,datetime.utcfromtimestamp(data["kline_1s"]["timestep"]//1000) ))#kline_1m_timestep
 
              
         channel.basic_consume(
