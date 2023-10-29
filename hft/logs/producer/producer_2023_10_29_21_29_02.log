@@ -1,0 +1,31 @@
+2023-10-29 21:29:06,026 - kline_websocket_stream.py[line:52] - INFO# WebSocket connection opened
+2023-10-29 21:29:06,057 - orderbook_websocket_stream.py[line:148] - INFO# WebSocket connection opened
+2023-10-29 21:29:06,109 - orderbook_websocket_stream.py[line:48] - INFO# WebSocket connection opened
+2023-10-29 21:29:06,626 - kline_websocket_stream.py[line:52] - INFO# WebSocket connection opened
+2023-10-29 21:29:06,763 - websocket_producer.py[line:110] - INFO# ****1698586146_1698586146_0
+2023-10-29 21:29:06,766 - websocket_producer.py[line:75] - INFO# Stored data in RabbitMQ, Order book timestep: 1698586146, Kline 1s timestep: 1698586146, Kline 1m timestep: 0
+2023-10-29 21:29:07,764 - websocket_producer.py[line:110] - INFO# ****1698586147_1698586147_1698586147
+2023-10-29 21:29:07,773 - websocket_producer.py[line:75] - INFO# Stored data in RabbitMQ, Order book timestep: 1698586147, Kline 1s timestep: 1698586147, Kline 1m timestep: 1698586147
+2023-10-29 21:29:07,786 - websocket_producer.py[line:75] - INFO# Stored data in RabbitMQ, Order book timestep: 1698586147, Kline 1s timestep: 1698586147, Kline 1m timestep: 1698586147
+2023-10-29 21:29:08,764 - websocket_producer.py[line:110] - INFO# ****1698586148_1698586148_1698586147
+2023-10-29 21:29:08,766 - websocket_producer.py[line:75] - INFO# Stored data in RabbitMQ, Order book timestep: 1698586148, Kline 1s timestep: 1698586148, Kline 1m timestep: 1698586147
+2023-10-29 21:29:09,764 - websocket_producer.py[line:110] - INFO# ****1698586149_1698586149_1698586147
+2023-10-29 21:29:09,767 - websocket_producer.py[line:75] - INFO# Stored data in RabbitMQ, Order book timestep: 1698586149, Kline 1s timestep: 1698586149, Kline 1m timestep: 1698586147
+2023-10-29 21:29:10,767 - websocket_producer.py[line:110] - INFO# ****1698586150_1698586150_1698586149
+2023-10-29 21:29:10,769 - websocket_producer.py[line:75] - INFO# Stored data in RabbitMQ, Order book timestep: 1698586150, Kline 1s timestep: 1698586150, Kline 1m timestep: 1698586149
+2023-10-29 21:29:11,765 - websocket_producer.py[line:110] - INFO# ****1698586151_1698586151_1698586149
+2023-10-29 21:29:11,768 - websocket_producer.py[line:75] - INFO# Stored data in RabbitMQ, Order book timestep: 1698586151, Kline 1s timestep: 1698586151, Kline 1m timestep: 1698586149
+2023-10-29 21:29:12,774 - websocket_producer.py[line:110] - INFO# ****1698586152_1698586152_1698586152
+2023-10-29 21:29:12,777 - websocket_producer.py[line:75] - INFO# Stored data in RabbitMQ, Order book timestep: 1698586152, Kline 1s timestep: 1698586152, Kline 1m timestep: 1698586152
+2023-10-29 21:29:13,770 - websocket_producer.py[line:110] - INFO# ****1698586153_1698586153_1698586152
+2023-10-29 21:29:13,772 - websocket_producer.py[line:75] - INFO# Stored data in RabbitMQ, Order book timestep: 1698586153, Kline 1s timestep: 1698586153, Kline 1m timestep: 1698586152
+2023-10-29 21:29:14,765 - websocket_producer.py[line:110] - INFO# ****1698586154_1698586154_1698586152
+2023-10-29 21:29:14,768 - websocket_producer.py[line:75] - INFO# Stored data in RabbitMQ, Order book timestep: 1698586154, Kline 1s timestep: 1698586154, Kline 1m timestep: 1698586152
+2023-10-29 21:29:15,770 - websocket_producer.py[line:110] - INFO# ****1698586155_1698586155_1698586154
+2023-10-29 21:29:15,772 - websocket_producer.py[line:75] - INFO# Stored data in RabbitMQ, Order book timestep: 1698586155, Kline 1s timestep: 1698586155, Kline 1m timestep: 1698586154
+2023-10-29 21:29:16,767 - websocket_producer.py[line:110] - INFO# ****1698586156_1698586156_1698586154
+2023-10-29 21:29:16,769 - websocket_producer.py[line:75] - INFO# Stored data in RabbitMQ, Order book timestep: 1698586156, Kline 1s timestep: 1698586156, Kline 1m timestep: 1698586154
+2023-10-29 21:29:17,768 - websocket_producer.py[line:110] - INFO# ****1698586157_1698586157_1698586157
+2023-10-29 21:29:17,770 - websocket_producer.py[line:75] - INFO# Stored data in RabbitMQ, Order book timestep: 1698586157, Kline 1s timestep: 1698586157, Kline 1m timestep: 1698586157
+2023-10-29 21:29:18,766 - websocket_producer.py[line:110] - INFO# ****1698586158_1698586158_1698586157
+2023-10-29 21:29:18,769 - websocket_producer.py[line:75] - INFO# Stored data in RabbitMQ, Order book timestep: 1698586158, Kline 1s timestep: 1698586158, Kline 1m timestep: 1698586157

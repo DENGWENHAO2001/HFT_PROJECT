@@ -17,7 +17,7 @@ from hft.rabbitmq import pika_connection
 from hft.utils import dict_to_args
 from hft.logger import get_logger
 from hft.agents.hft_ddqn import HFTDDQN
-
+import requests
 def get_args_parser():
     parser = argparse.ArgumentParser("HFT real-time testing", add_help=False)
     parser.add_argument("--config", default=os.path.join(ROOT, "hft/configs", "config.yaml"), type=str)
@@ -31,7 +31,7 @@ def get_args_parser():
     return args
 
 class Consumer():
-    def __init__(self, args, cache_kline_windows = [5,10,30,60]):
+    def __init__(self, args, cache_kline_windows =[2,3,4,5] ):#[5,10,30,60]
         self.args = args
         self.agent = HFTDDQN(self.args)
         self.logger = get_logger(os.path.join(ROOT, "hft/logs", "consumer"), "consumer")
@@ -142,6 +142,14 @@ class Consumer():
         data["kline_1m"] = kline_data
         return data
 
+    def put_request(self,data):
+        response = requests.post('http://127.0.0.1:8080/store', json=data)
+        if response.status_code == 201:
+            print('Data stored successfully!')
+        else:
+            print('Failed to store data:', response.text)
+
+
     def start_consumer(self):
         channel = pika_connection.channel()
         channel.queue_declare(queue='binance_data')
@@ -181,14 +189,22 @@ class Consumer():
 
                 timestamp=int(data["kline_1s"]["timestep"]) // 1000  #
 
-                self.logger_ddqn.info(
-                    "timestamp:{},position:{},output_action:{},price_info:{}"
-                    .format(datetime.utcfromtimestamp(timestamp), previous_action * 0.01 / 4, action_infos,{k: v for k, v in data["orderbook"].items() if k != "timestep"}))#
-                self.logger.info(
-                "Action info: {}, Kline timestep: {}"
-                .format(action_infos,datetime.utcfromtimestamp(data["kline_1s"]["timestep"]//1000) ))#kline_1m_timestep
+                # self.logger_ddqn.info(
+                #     "timestamp:{},position:{},output_action:{},price_info:{}"
+                #     .format(datetime.utcfromtimestamp(timestamp), previous_action * 0.01 / 4, action_infos,{k: v for k, v in data["orderbook"].items() if k != "timestep"}))#
+                # self.logger.info(
+                # "Action info: {}, Kline timestep: {}"
+                # .format(action_infos,datetime.utcfromtimestamp(data["kline_1s"]["timestep"]//1000) ))#kline_1m_timestep
 
-             
+                back_end_data = {
+                    'timestep': str(datetime.utcfromtimestamp(timestamp)),
+                    'position': previous_action * 0.01 / 4,
+                    'output_action': action_infos,
+                }
+                back_end_data.update({k: v for k, v in data["orderbook"].items() if k != "timestep"})
+                self.put_request(back_end_data)
+
+
         channel.basic_consume(
             queue='binance_data',
             on_message_callback=callback,

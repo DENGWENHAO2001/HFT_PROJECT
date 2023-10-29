@@ -63,9 +63,9 @@ class HFTDDQN():
 
         # TODO 把这个结果转成get_feature类的结果
         self.minute_tech_indicator_list = np.load(os.path.join(
-            ROOT, "hft", "agents", "feature", "minitue_feature.npy"), allow_pickle=True)
+            ROOT, "hft", "agents", "feature", "test_minitue_feature.npy"), allow_pickle=True)
         self.second_tech_indicator_list = np.load(os.path.join(
-            ROOT, "hft", "agents", "feature", "second_feature.npy"), allow_pickle=True)
+            ROOT, "hft", "agents", "feature", "test_second_feature.npy"), allow_pickle=True)
         # TODO 第一个就是high level的模型初始化以及load trained的model
         # TODO low level 多个魔心固定初始化已经load model 并形成对应的value为list（内涵加载的模型）的字典
         self.high_level_agent = Qnet_high_level_position(int(len(self.minute_tech_indicator_list)), 5, 128).to("cpu")
